@@ -12,9 +12,9 @@
  - Hot takes on James Cameron Movies.
  
  ## Code and Resources Used:
- **Python Version:** 3.7
- **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, lightgbm  
- [Ken Jee's Youtube Video  about the Titanic Dataset](https://www.youtube.com/watch?v=I3FBJdiExcg)
+ - **Python Version:** 3.7
+ - **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, lightgbm  
+ - [Ken Jee's Youtube Video  about the Titanic Dataset](https://www.youtube.com/watch?v=I3FBJdiExcg)
  
  ## Features:
  
