@@ -1,10 +1,10 @@
-# Titanic
- The required Titanic Project you have to do before they can call you a Data Scientist.
+<img src="https://github.com/Huntsworth7/Titanic/blob/master/images/titanic-cameron.jpg" width="360">
+
  
- In all seriousness, I've wanted to enter a kaggle competition for a long time and this seemed like a great place to start.
+ Here it is, the required Titanic Project you have to do before they anyone can legally call you a Data Scientist. In all seriousness, I've wanted to enter a kaggle competition for a long time 
  
  ## Project Overview:
- - Achieved 78% accuracy on the testing set. It's difficult to know how good this is as the leaderboard is filled with people with 100% accuracy/overfit models.  
+ - Achieved 77.51% accuracy on the testing set. It's difficult to know how good this is as the leaderboard is filled with people that have 100% accuracy. I have to assume their means of getting this high of a score is...let's say unconventional. 
  - Data was acquired from the ongoing kaggle competition [here.](https://www.kaggle.com/c/titanic/data)
  - Extensive EDA and feature engineering. 
  - Use of Logistic Regression, Gradient Boosting, and Support Vector Clustering.
@@ -42,8 +42,10 @@
  
  
  ## EDA:
- Some highlights from EDA. There's a ton of it within the Jupyter notebook. 
- 
+ Some highlights from EDA. There's a ton of it within the Jupyter notebook. <br>
+ ![alt text](https://github.com/Huntsworth7/Titanic/blob/master/images/Survived%20correlation.JPG "Survived Correlations")
+ ![alt text](https://github.com/Huntsworth7/Titanic/blob/master/images/Ages.png "Ages")
+ ![alt text](https://github.com/Huntsworth7/Titanic/blob/master/images/heatmap.png "Correlations Among Features")
  ## Model Building:
  First, I used one hot encoding on categorical features and scaled the numerical data. 
   
